@@ -1,0 +1,11 @@
+public class marksheet {
+public static void main(String[]args) {
+    String sub1="English", sub2="Tamil", sub3="Maths";
+    int mark1=90, mark2=95,mark3=85;
+    System.out.println("subject_marks");
+     System.out.println(sub1+"-"+mark1);
+      System.out.println(sub2+"-"+mark2);
+      System.out.println(sub2+"-"+mark2);
+}
+    
+}
