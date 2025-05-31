@@ -26,5 +26,5 @@ public class array {
                 System.out.println("The given number is present in "+c);
             }
         }
-    }    
+    }  
 }
